@@ -1,0 +1,1 @@
+CloudFront endpoint URL for my project: https://de9fpeho6nmk1.cloudfront.net/
